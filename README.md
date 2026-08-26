@@ -799,7 +799,7 @@
 
 | 발표자 | 발표 내용                                                                                                                                                          |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 김진솔 | []()                                                                                                                                                               |
+| 김진솔 | [얼굴 인식 기술](https://github.com/jinsoul75/frontend-article-study-2/blob/main/jinsoul/Face-Recognition/face-recognition-technology.md)                                |
 | 한혜선 | [React Native New Architecture](https://github.com/frontend-article-study/frontend-article-study-2/blob/main/hyeseon/React%20Native%20New%20Architecture/index.md) |
 
 <!--
